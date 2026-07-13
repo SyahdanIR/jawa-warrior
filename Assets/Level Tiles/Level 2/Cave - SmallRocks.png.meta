@@ -1,0 +1,1051 @@
+fileFormatVersion: 2
+guid: 8623c4112f654dd46bd10809f1ac2985
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cave - SmallRocks_0
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1841
+        width: 132
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce998609529f444791c0c47b8afa12b
+      internalID: 1676239152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1846
+        width: 122
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1979e294d77b20f4bbc44b42fc05d816
+      internalID: -169391984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_2
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1844
+        width: 124
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c09e6a01bc99164ba3c878cc5ebf42f
+      internalID: 1224869863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_3
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1812
+        width: 175
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c417b995cba514ba1bcae7c169a2de
+      internalID: -1745884327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_4
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1806
+        width: 172
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8ae320568630547a0139295005178b
+      internalID: 1932943449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_5
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1810
+        width: 189
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a547aa18a9a87d74ebc246a009b0d902
+      internalID: 1687933774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_6
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1815
+        width: 176
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b50a0f6f58fd2468cf3715ce16634b
+      internalID: -245719509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_7
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1628
+        width: 145
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a294ece1ca85a49438801bfe83ca8465
+      internalID: -1699502455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_8
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 1725
+        width: 172
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7537c0555e0d0645a886c6ae9f7f4a5
+      internalID: -1614743916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1631
+        width: 187
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98eb33d336ca5a418e2ffec5d05ea69
+      internalID: -795465217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_10
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1644
+        width: 92
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e224365b6010347b05f83db59d9f28
+      internalID: 933016841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_11
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1609
+        width: 132
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c7baa7111e2214aac33d495a210652
+      internalID: -909465832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_12
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1616
+        width: 165
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011ddf94475d42b4380d6e3f6df53490
+      internalID: 1956371645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_13
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1574
+        width: 380
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6db3a6a70390d4ca6519197b089ee8
+      internalID: 313898995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_14
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1715
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115dbbfc3984e5945ad5096136d440ea
+      internalID: 1813687124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_15
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1648
+        width: 118
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fc1c1f87852ac43ab083981283f01b
+      internalID: -2100949640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_16
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1348
+        width: 195
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1fd53042ad9484a84ed7d64261894e
+      internalID: 479150835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_17
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1304
+        width: 185
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ff24c781dacbb4480903b7391886d7
+      internalID: -2130775707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_18
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1304
+        width: 176
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec3216c017c7c543bd9ef43b2cab3c3
+      internalID: 1475328868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_19
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1302
+        width: 186
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d252b64098528b4387e68e3815a09a9
+      internalID: 689837887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_20
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1223
+        width: 311
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5248775af277ab4e8a22c756a2500da
+      internalID: 735352819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_21
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1411
+        width: 172
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e790eaa4eabe014a81d0795e308e0de
+      internalID: 1022802326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_22
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1405
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b743b2de91ad147bdf1a816611694c
+      internalID: -1428148313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_23
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1401
+        width: 122
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f72c13e9180615459544fae26652a5b
+      internalID: -93803558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_24
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1211
+        width: 306
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d76ccd779c6f50419c9d38bf68719d6
+      internalID: 1409933831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_25
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 551
+        width: 731
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64023bd64e506a84881320daaea5a0ba
+      internalID: -535386104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_26
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 984
+        width: 133
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde3a56667f448142a393a022ff65878
+      internalID: -1619342087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_27
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 993
+        width: 125
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9d1988968a58a4c8e6e6cbc8ddd315
+      internalID: 1898171387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_28
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 988
+        width: 130
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd3235f9891a0041b66f9d2e3e3020a
+      internalID: -810696730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_29
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1020
+        width: 133
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62ebef559755244895684ad2df2ed51
+      internalID: -1980618640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_30
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 989
+        width: 133
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bcbb0b5f7ec6f4fbaa93102d9afbac
+      internalID: 1941033467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_31
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 651
+        width: 188
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0d1ffbf346920449a7a88999ef06db
+      internalID: 1897893632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_32
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 475
+        width: 731
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344dcf1316b9d4c458bd4fb3c737efb2
+      internalID: -1467286733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_33
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 651
+        width: 188
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fd58c4fa989a440a85f9fea0b2aa07
+      internalID: 465503945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_34
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 560
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af057a0d1f71cb4fb4355391ce9a1be
+      internalID: -1738080362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_35
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 34
+        width: 188
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a6c226e42a8474fa9fb2bfd9240fdd
+      internalID: -1709705053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_36
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 481
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0e3a6d7d948ba46b94d0c88f18025e
+      internalID: 430991247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_37
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 41
+        width: 345
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf0840fc5330904292d7e5ee59dea91
+      internalID: 1031525980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_38
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 41
+        width: 388
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9d333ffba68a642afeb713de848019
+      internalID: 1220990104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_39
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 41
+        width: 313
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b8b7697bebc064fbb1e5edef9b7547
+      internalID: -1146416339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_40
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 31
+        width: 378
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767d6b38f2df4eb4a8f9ada325a9f2d2
+      internalID: 1535812324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave - SmallRocks_41
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 35
+        width: 188
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6263f7605a3fc74c8d66a4f5130831d
+      internalID: -1270149489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cave - SmallRocks_0: 1676239152
+      Cave - SmallRocks_1: -169391984
+      Cave - SmallRocks_10: 933016841
+      Cave - SmallRocks_11: -909465832
+      Cave - SmallRocks_12: 1956371645
+      Cave - SmallRocks_13: 313898995
+      Cave - SmallRocks_14: 1813687124
+      Cave - SmallRocks_15: -2100949640
+      Cave - SmallRocks_16: 479150835
+      Cave - SmallRocks_17: -2130775707
+      Cave - SmallRocks_18: 1475328868
+      Cave - SmallRocks_19: 689837887
+      Cave - SmallRocks_2: 1224869863
+      Cave - SmallRocks_20: 735352819
+      Cave - SmallRocks_21: 1022802326
+      Cave - SmallRocks_22: -1428148313
+      Cave - SmallRocks_23: -93803558
+      Cave - SmallRocks_24: 1409933831
+      Cave - SmallRocks_25: -535386104
+      Cave - SmallRocks_26: -1619342087
+      Cave - SmallRocks_27: 1898171387
+      Cave - SmallRocks_28: -810696730
+      Cave - SmallRocks_29: -1980618640
+      Cave - SmallRocks_3: -1745884327
+      Cave - SmallRocks_30: 1941033467
+      Cave - SmallRocks_31: 1897893632
+      Cave - SmallRocks_32: -1467286733
+      Cave - SmallRocks_33: 465503945
+      Cave - SmallRocks_34: -1738080362
+      Cave - SmallRocks_35: -1709705053
+      Cave - SmallRocks_36: 430991247
+      Cave - SmallRocks_37: 1031525980
+      Cave - SmallRocks_38: 1220990104
+      Cave - SmallRocks_39: -1146416339
+      Cave - SmallRocks_4: 1932943449
+      Cave - SmallRocks_40: 1535812324
+      Cave - SmallRocks_41: -1270149489
+      Cave - SmallRocks_5: 1687933774
+      Cave - SmallRocks_6: -245719509
+      Cave - SmallRocks_7: -1699502455
+      Cave - SmallRocks_8: -1614743916
+      Cave - SmallRocks_9: -795465217
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

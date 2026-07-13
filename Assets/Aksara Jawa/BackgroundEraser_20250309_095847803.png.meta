@@ -1,0 +1,589 @@
+fileFormatVersion: 2
+guid: bbb4b3d590e55ef43acb681fcb7381fa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BackgroundEraser_20250309_095847803_0
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 903
+        width: 186
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a95438ae84c1c43a67d683ae2b3b65
+      internalID: -1616354284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundEraser_20250309_095847803_1
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 883
+        width: 146
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ef2148185fd894dbc5eb1112c15d4b
+      internalID: -894374205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundEraser_20250309_095847803_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 881
+        width: 129
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4195a239676dc774fa023de5faa05720
+      internalID: 493069326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundEraser_20250309_095847803_3
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 809
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22660fcd6d768f7468dc6c57e501b5f5
+      internalID: 526021868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundEraser_20250309_095847803_7
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 595
+        width: 172
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0692dde2b2f08454ba59ab427f3d97cd
+      internalID: 817194979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundEraser_20250309_095847803_8
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 489
+        width: 333
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce1eda714653d54f86510d1ae992b3b
+      internalID: -973200535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundEraser_20250309_095847803_9
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 585
+        width: 169
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34df65e1c08be954db727e790c335258
+      internalID: -326680726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundEraser_20250309_095847803_10
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 587
+        width: 131
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d11b2ca492ee043ac9ff17c8d13716
+      internalID: -1039488073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundEraser_20250309_095847803_11
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 488
+        width: 135
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b264f4c3d415c4d91ee5a88b52a834
+      internalID: -2140918935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundEraser_20250309_095847803_12
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 481
+        width: 164
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7d16fb80bd94a4d925f50b093b0559
+      internalID: 916606054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundEraser_20250309_095847803_13
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 590
+        width: 127
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4d0e91e50db4e41a195d135b886e6f
+      internalID: 995546512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundEraser_20250309_095847803_14
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 176
+        width: 168
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa0c9d8715973c41b64b56b6970c374
+      internalID: -1573070351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundEraser_20250309_095847803_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 177
+        width: 175
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cea58478a0eb444b9336fbbb60f1b1d
+      internalID: 903370521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundEraser_20250309_095847803_16
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 285
+        width: 127
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f850aca098dbb75419807dc679a11414
+      internalID: 1776805664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundEraser_20250309_095847803_17
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 266
+        width: 170
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7839d0ab8e4ecd842847e8407b96e036
+      internalID: 909895718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundEraser_20250309_095847803_18
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 194
+        width: 139
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e889554549fc3fa4aa2757613f6c44e4
+      internalID: 2031870371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundEraser_20250309_095847803_19
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 282
+        width: 173
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c2dbe3662e455469eb64898988da1e
+      internalID: 1793154790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundEraser_20250309_095847803_20
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 282
+        width: 132
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dccec37bec024448c1819fc1a5ada4
+      internalID: 1363263527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundEraser_20250309_095847803_4
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 806
+        width: 164
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b604dea8afc58c74f9339757f9e3413c
+      internalID: 1044507945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundEraser_20250309_095847803_5
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 914
+        width: 168
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325d2a7eee7897041a816884c7a87ece
+      internalID: -1732503720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundEraser_20250309_095847803_6
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 916
+        width: 131
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbf78dc95b9fdb49b62328f546960d8
+      internalID: 268900566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BackgroundEraser_20250309_095847803_0: -1616354284
+      BackgroundEraser_20250309_095847803_1: -894374205
+      BackgroundEraser_20250309_095847803_10: -1039488073
+      BackgroundEraser_20250309_095847803_11: -2140918935
+      BackgroundEraser_20250309_095847803_12: 916606054
+      BackgroundEraser_20250309_095847803_13: 995546512
+      BackgroundEraser_20250309_095847803_14: -1573070351
+      BackgroundEraser_20250309_095847803_15: 903370521
+      BackgroundEraser_20250309_095847803_16: 1776805664
+      BackgroundEraser_20250309_095847803_17: 909895718
+      BackgroundEraser_20250309_095847803_18: 2031870371
+      BackgroundEraser_20250309_095847803_19: 1793154790
+      BackgroundEraser_20250309_095847803_2: 493069326
+      BackgroundEraser_20250309_095847803_20: 1363263527
+      BackgroundEraser_20250309_095847803_3: 526021868
+      BackgroundEraser_20250309_095847803_4: 1044507945
+      BackgroundEraser_20250309_095847803_5: -1732503720
+      BackgroundEraser_20250309_095847803_6: 268900566
+      BackgroundEraser_20250309_095847803_7: 817194979
+      BackgroundEraser_20250309_095847803_8: -973200535
+      BackgroundEraser_20250309_095847803_9: -326680726
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
